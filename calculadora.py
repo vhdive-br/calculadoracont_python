@@ -21,5 +21,5 @@ while True:
             break
     
     if menu == 0:1
-        break
+    break
 print('Fim! Obrigado volte sempre/Thank you and welcome back!')
